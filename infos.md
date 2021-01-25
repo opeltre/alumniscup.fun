@@ -6,7 +6,7 @@ layout: default
 
 ## Documents indispensables
 
-- **Licence FFV** de l'année en cours. Celle-ci peut être prise auprès de la SRH en donnant Nom, Prénom, Adresse, Date et lieu de Naissance. Tarif  2016 Licence année : 53,20 euros Licence temporaire (4jours): 26,60  euros. Pour cela envoyez un mail avant la régate à [✉️](mailto:srh@lesregates.com)
+- **Licence FFV** de l'année en cours. Celle-ci peut être prise auprès de la SRH en donnant Nom, Prénom, Adresse, Date et Lieu de Naissance. Tarifs 2021 Licence année : 58,50 euros Licence temporaire (4jours): 15,50  euros. Pour cela envoyez un mail avant la régate à la SRH [✉️](mailto:srh@lesregates.com).
 
 - **Certificat médical** de l'année en cours, indiquant "pas de contre-indication à la pratique de la voile sportive en compétition".
 
