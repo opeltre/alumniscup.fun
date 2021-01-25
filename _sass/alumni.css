@@ -1,0 +1,102 @@
+body, html {
+    padding: 0;
+    margin: 0;
+}
+
+*{
+    font-family: 'avenir', sans-serif;
+} 
+
+.strip {
+    max-width: 75%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.paragraph {
+    max-width: 400px;
+    font-size: 10pt;
+    font-weight: lighter;
+}
+
+.blue {
+    color: #151a2c;
+}
+.bg-blue {
+    background-color: #4c81a1;
+    
+}
+.bg-bleu {
+    background-color: #5c96c8;
+}
+.red {
+    color: #ca5343;
+}
+.bg-red {
+    background-color: #ca5343;
+}
+.white {
+    color: #fff;
+}
+.bg-white {
+    background-color: #fff;
+} 
+
+
+hr {
+    color: #fff;
+    border: none;
+    background-color: #fff;
+    height: 1px; 
+}
+button {
+    border: 1px solid #fff;
+}
+
+#banner div a {
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 5px 10px;
+}
+#rsvp img {
+    margin-top: 30px; 
+}
+
+#rsvp input {
+    text-align: right;
+}
+#rsvp input, #rsvp button {
+    border: solid 1px #fff;
+    padding: 4px 20px; 
+}
+#subscribe {
+    padding: 20px 0px;
+}
+
+#background {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    z-index: -1;
+}
+
+#banner {
+    height: 100vh;
+    max-height: 620px;
+}
+
+#banner h1 {
+    margin-top: 100px;
+    font-size: 60px;
+}
+
+#banner * {
+    text-align: center;
+    margin: 20px;
+}
+
+
