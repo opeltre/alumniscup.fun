@@ -1,0 +1,8 @@
+- name: Inscription
+  url: "/inscription"
+- name: Course aux Dons
+  url: "/course_snsm"
+- name: Infos Pratiques
+  url: "/infos"
+- name: Photos
+  url: "/photos"

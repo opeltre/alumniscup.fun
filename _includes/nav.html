@@ -1,0 +1,17 @@
+<nav> 
+  <div class="flex-h center"> 
+
+    <span id="home">
+        <a href="/">Alumni's Cup</a>
+    </span> 
+
+    <span class="grow"></span>  
+
+    {% for item in site.data.nav %} 
+    <span> 
+        <a href="{{item.url}}">{{item.name}}</a> 
+    </span> 
+    {% endfor %}
+
+  </div>
+</nav> 

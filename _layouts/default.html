@@ -8,6 +8,15 @@
   </head> 
 
   <body>
-    {{content}} 
+    <header> 
+    {% include nav.html %}
+    </header>
+
+    <div class="flex-h"> 
+      <div class="grow"> </div>
+      <main> {{content}} </main>
+      <div class="grow"> </div> 
+    </div> 
+
   </body>
 </html>
