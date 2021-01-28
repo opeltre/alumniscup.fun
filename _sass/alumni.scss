@@ -7,14 +7,8 @@ body, html {
 
 *{
     font-family: 'avenir', sans-serif;
-} 
-
-nav a {
-    text-decoration: none;
-    color:  black;
-}
-nav span {
-    padding: 10px 20px;
+    font-weight: thin;
+    color: $marine;
 }
 
 main {

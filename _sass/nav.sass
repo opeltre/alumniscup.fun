@@ -1,0 +1,34 @@
+@import 'variables'
+
+/* Logo Accueil */ 
+#home 
+  padding: 1em
+
+#home img 
+  width: 8em
+
+/* Bouton Menu */
+#show-menu
+  visibility: hidden
+#show-menu ~ label 
+  padding: 20px
+  align-self: flex-end
+
+/* Nav */ 
+#show-menu:checked ~ nav 
+  display: block
+  display: flex
+  flex-flow: column 
+  flex-wrap: none
+
+#show-menu ~ nav
+  display: none
+
+
+nav a 
+  color: $marine
+  text-decoration: none
+  padding: 10px 20px
+  border: 1px solid $marine
+  
+
