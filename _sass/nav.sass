@@ -1,11 +1,15 @@
 @import 'variables'
 
+$fs-nav: 1.3em
+$pad-nav: 1.2em 
+
 header 
   margin-right: 1em
+  align-items: flex-end
 
 /*--- Logo Accueil ---*/ 
 #home 
-  padding: 1.2em
+  padding: $pad-nav
   position: absolute
   top: 0em
   left: 0em
@@ -34,14 +38,34 @@ header
 #show-menu ~ nav
   display: none
 
-
 nav a 
   color: $marine
+  font-size: $fs-nav
   text-decoration: none
   text-align: right
   padding: 0.65em 3em
   border-bottom: 1px solid $ciel
   border-right: 1px solid $ciel
   border-radius: 4px
-  
 
+/*--- Laptop ---*/
+@media #{$laptop} 
+  header 
+    margin-right: 0em
+
+  #home 
+    position: relative
+
+  #show-menu ~ label 
+    display: none
+
+  #show-menu ~ nav
+    display: flex
+    flex-flow: row
+    padding-bottom: $pad-nav 
+
+  nav a
+    border-right: none
+    border-bottom: none
+    border-radius: 0px
+    padding-top: 2em
