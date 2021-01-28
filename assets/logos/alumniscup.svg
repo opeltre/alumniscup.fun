@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55.666126mm"
+   height="43.421764mm"
+   viewBox="0 0 55.666126 43.421764"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="alumniscup.svg"
+   inkscape:export-filename="/home/oli/alumniscup.fun/assets/logos/alumniscup.png"
+   inkscape:export-xdpi="330.2926"
+   inkscape:export-ydpi="330.2926">
+  <defs
+     id="defs2">
+    <rect
+       x="16.917387"
+       y="75.654297"
+       width="48.497814"
+       height="11.219878"
+       id="rect835" />
+    <rect
+       x="16.917387"
+       y="75.654297"
+       width="56.181362"
+       height="10.647008"
+       id="rect835-1" />
+    <rect
+       x="16.917387"
+       y="75.654297"
+       width="48.497814"
+       height="11.219878"
+       id="rect870" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="92.192396"
+     inkscape:cy="76.391451"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g945"
+     inkscape:document-rotation="0"
+     showgrid="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid899"
+       originx="-14.144438"
+       originy="-39.88595" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.144438,-39.88595)">
+    <g
+       id="g945"
+       transform="translate(1.7304222,-0.80246117)"
+       style="fill:#214478">
+      <text
+         xml:space="preserve"
+         id="text833"
+         style="font-size:4.93889px;line-height:1.25;font-family:C059;-inkscape-font-specification:'C059, Normal';word-spacing:0px;white-space:pre;shape-inside:url(#rect835);fill:#214478;fill-opacity:1;"
+         transform="translate(0.45549083,-1.8599076)"><tspan
+           x="16.917969"
+           y="81.896814"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.05556px;font-family:'Noto Sans Arabic';-inkscape-font-specification:'Noto Sans Arabic, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#214478;fill-opacity:1">Alumni's </tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'Noto Sans Arabic';-inkscape-font-specification:'Noto Sans Arabic Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#214478;fill-opacity:1">Cup</tspan></tspan></text>
+      <path
+         style="fill:#214478;stroke:#214478;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 17.197917,72.217526 H 35.915375"
+         id="path839"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#214478;fill-opacity:1;stroke:#214478;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 38.074641,44.1165 c 10.859564,10.01579 7.279164,23.130132 6.874098,24.62638 L 29.064734,68.619163 C 31.660535,65.84079 42.438078,59.870452 38.074641,44.1165 Z"
+         id="path841"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#214478;fill-opacity:1;stroke:#214478;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 41.613481,43.863272 c 18.248744,1.184887 17.074936,16.855644 11.303186,24.755891 H 47.299628 C 49.987854,63.954616 55.711977,50.9633 41.613481,43.863272 Z"
+         id="path843"
+         sodipodi:nodetypes="cccc" />
+      <text
+         xml:space="preserve"
+         id="text833-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:padmaa;-inkscape-font-specification:'padmaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;white-space:pre;shape-inside:url(#rect835-1);fill:#214478;"
+         transform="translate(-0.95710221,10.831131)" />
+      <path
+         style="fill:#214478;stroke:#214478;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 46.928566,72.162772 h 16.41026"
+         id="path839-4"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+</svg>

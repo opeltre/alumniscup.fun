@@ -1,17 +1,27 @@
-<nav> 
-  <div class="flex-h center"> 
+<header class="flex-h">
 
-    <span id="home">
-        <a href="/">Alumni's Cup</a>
-    </span> 
+  <!-- Accueil -->
+  <div id="home">
+    <a href="/">
+      <img alt="Alumni's Cup Home"
+          src="/assets/logos/alumniscup.png">
+    </a>
+  </div> 
 
-    <span class="grow"></span>  
+  <span class="grow"></span>  
 
-    {% for item in site.data.nav %} 
-    <span> 
-        <a href="{{item.url}}">{{item.name}}</a> 
-    </span> 
-    {% endfor %}
+  <!-- Barre de nav -->
+  <div id="navbar" class="flex-v">
 
-  </div>
-</nav> 
+    <input name="show-menu" id="show-menu" type="checkbox">
+    <label for="show-menu"> Menu </label> 
+
+    <nav id="menu"> 
+      {% for item in site.data.nav %} 
+      <a href="{{item.url}}">{{item.name}}</a> 
+      {% endfor %}
+    </nav> 
+
+  </div> 
+
+</header> 

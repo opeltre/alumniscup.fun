@@ -1,0 +1,71 @@
+@import 'variables'
+
+$fs-nav: 1.3em
+$pad-nav: 1.2em 
+
+header 
+  margin-right: 1em
+  align-items: flex-end
+
+/*--- Logo Accueil ---*/ 
+#home 
+  padding: $pad-nav
+  position: absolute
+  top: 0em
+  left: 0em
+
+#home img 
+  width: 7.5em
+
+/*--- Bouton Menu ---*/
+#show-menu
+  visibility: hidden
+
+#show-menu ~ label 
+  padding: 2.5em
+  border: 1px solid $ciel
+  color: $ciel
+  border-radius: 4px
+  align-self: flex-end
+
+/*--- Nav ---*/ 
+#show-menu:checked ~ nav 
+  display: block
+  display: flex
+  flex-flow: column 
+  flex-wrap: none
+
+#show-menu ~ nav
+  display: none
+
+nav a 
+  color: $marine
+  font-size: $fs-nav
+  text-decoration: none
+  text-align: right
+  padding: 0.65em 3em
+  border-bottom: 1px solid $ciel
+  border-right: 1px solid $ciel
+  border-radius: 4px
+
+/*--- Laptop ---*/
+@media #{$laptop} 
+  header 
+    margin-right: 0em
+
+  #home 
+    position: relative
+
+  #show-menu ~ label 
+    display: none
+
+  #show-menu ~ nav
+    display: flex
+    flex-flow: row
+    padding-bottom: $pad-nav 
+
+  nav a
+    border-right: none
+    border-bottom: none
+    border-radius: 0px
+    padding-top: 2em
