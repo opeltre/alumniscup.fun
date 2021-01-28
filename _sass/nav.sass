@@ -1,20 +1,30 @@
 @import 'variables'
 
-/* Logo Accueil */ 
+header 
+  margin-right: 1em
+
+/*--- Logo Accueil ---*/ 
 #home 
-  padding: 1em
+  padding: 1.2em
+  position: absolute
+  top: 0em
+  left: 0em
 
 #home img 
-  width: 8em
+  width: 7.5em
 
-/* Bouton Menu */
+/*--- Bouton Menu ---*/
 #show-menu
   visibility: hidden
+
 #show-menu ~ label 
-  padding: 20px
+  padding: 2.5em
+  border: 1px solid $ciel
+  color: $ciel
+  border-radius: 4px
   align-self: flex-end
 
-/* Nav */ 
+/*--- Nav ---*/ 
 #show-menu:checked ~ nav 
   display: block
   display: flex
@@ -28,7 +38,10 @@
 nav a 
   color: $marine
   text-decoration: none
-  padding: 10px 20px
-  border: 1px solid $marine
+  text-align: right
+  padding: 0.65em 3em
+  border-bottom: 1px solid $ciel
+  border-right: 1px solid $ciel
+  border-radius: 4px
   
 
