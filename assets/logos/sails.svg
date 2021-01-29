@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28.06361mm"
+   height="25.171221mm"
+   viewBox="0 0 28.06361 25.171221"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="sails.svg"
+   inkscape:export-filename="/home/oli/alumniscup.fun/assets/logos/sails-icon.png"
+   inkscape:export-xdpi="48.710155"
+   inkscape:export-ydpi="48.710155">
+  <defs
+     id="defs2">
+    <rect
+       x="16.917387"
+       y="75.654297"
+       width="48.497814"
+       height="11.219878"
+       id="rect835" />
+    <rect
+       x="16.917387"
+       y="75.654297"
+       width="56.181362"
+       height="10.647008"
+       id="rect835-1" />
+    <rect
+       x="16.917387"
+       y="75.654297"
+       width="48.497814"
+       height="11.219878"
+       id="rect870" />
+    <rect
+       x="16.917387"
+       y="75.654297"
+       width="62.319275"
+       height="20.828047"
+       id="rect835-8" />
+    <rect
+       x="16.917387"
+       y="75.654297"
+       width="48.497814"
+       height="11.219878"
+       id="rect994" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7459758"
+     inkscape:cx="20.621574"
+     inkscape:cy="59.915438"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g945"
+     inkscape:document-rotation="0"
+     showgrid="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid899"
+       originx="-36.730219"
+       originy="-45.200162" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.730215,-45.200163)">
+    <g
+       id="g945"
+       transform="translate(1.7304222,-0.80246117)"
+       style="fill:#214478">
+      <g
+         id="g1020"
+         transform="translate(6.2375055,2.2978825)"
+         style="fill:#285395;fill-opacity:1">
+        <path
+           style="fill:#285395;fill-opacity:1;stroke:#2c5aa0;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 38.074641,44.1165 c 10.859564,10.01579 7.279164,23.130132 6.874098,24.62638 L 29.064734,68.619163 C 31.660535,65.84079 42.438078,59.870452 38.074641,44.1165 Z"
+           id="path841"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#285395;fill-opacity:1;stroke:#2c5aa0;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 41.613481,43.863272 c 18.248744,1.184887 17.074936,16.855644 11.303186,24.755891 H 47.299628 C 49.987854,63.954616 55.711977,50.9633 41.613481,43.863272 Z"
+           id="path843"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <text
+         xml:space="preserve"
+         id="text833-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:padmaa;-inkscape-font-specification:'padmaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;white-space:pre;shape-inside:url(#rect835-1);fill:#214478;"
+         transform="translate(-0.95710221,10.831131)" />
+    </g>
+  </g>
+</svg>

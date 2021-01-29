@@ -21,7 +21,8 @@ course aux dons au profit de la SNSM.
     padding:    10px;
     color:      white;
     margin:     auto;
-    background-color:   orange;
+    background-color:   #ea7622;
     text-decoration:    none;
+    border-radius: 4px;
 }
 </style> 

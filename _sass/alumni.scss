@@ -20,3 +20,14 @@ main {
         max-width: 90%;
     }
 }
+
+main h1 {
+    color: $rouge;
+}
+main h2 {
+    color: $marine;
+}
+
+main strong {
+    color: $bleu;
+}
