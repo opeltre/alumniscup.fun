@@ -40,27 +40,52 @@
     text-align: left;
 }
 
-
 .hide{
     display: none;
 }
 
-/* The sidebar menu */
-.right-sidebar {
-  width: 200px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  z-index: 1; /* Stay on top */
-  top: 100px; /* Stay at the top */
-  left: 0;
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center;
 }
-.left-sidebar {
-  width: 200px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  z-index: 1; /* Stay on top */
-  top: 100px; /* Stay at the top */
-  right: 0;
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
+
+.wrapper > * {
+  padding: 10px;
+  flex: 1 100%;
+}
+
+
+.footer {
+  background: white;
+}
+
+main {
+  text-align: left;
+  background: white;
+}
+
+.aside-1 {
+  background: grey;
+}
+
+.aside-2 {
+  background: grey;
+}
+
+@media only screen and (min-width: 500px) {
+  .aside { flex: 1 0 0; }
+}
+
+@media only screen and (min-width: 900px) {
+   main    { flex: 3 0px; }
+  .aside-1 { order: 1; }
+   main    { order: 2; }
+  .aside-2 { order: 3; }
+  .footer  { order: 4; }
+}
+
+body {
+  padding: 2em;
 }

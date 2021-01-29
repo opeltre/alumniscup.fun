@@ -10,20 +10,14 @@
   <body>
     {% include nav.html %}
 
-    <div class="flex-h">
-      <div class="grow"> </div>
+    <div class="wrapper">
       <main> {{content}} </main>
-      <div class="grow"> </div>
+      <aside class="aside aside-1">
+        {% include logos.html %}
+      </aside>
+      <aside class="aside aside-2">
+        {% include logos.html %}
+      </aside>
     </div>
-
-    <!-- Side navigation -->
-    <div class="left-sidebar">
-      {% include logos.html %}
-    </div>
-
-    <div class="right-sidebar">
-      {% include logos.html %}
-    </div>
-
   </body>
 </html>

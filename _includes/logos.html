@@ -1,0 +1,8 @@
+<div class="sidenav">
+  <h2 class="box-head"> Partenaires techniques</h2>
+  {% for item in site.data.logos %}
+  <a href="{{ item.url }}">
+    <img class="logo" src="assets/logos/{{ item.name }}" width="100">
+  </a>
+  {% endfor %}
+</div>
