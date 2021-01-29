@@ -55,3 +55,12 @@
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
 }
+.left-sidebar {
+  width: 200px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 100px; /* Stay at the top */
+  right: 0;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
