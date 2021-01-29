@@ -1,71 +1,92 @@
 @import 'variables'
 
-$fs-nav: 1.3em
-$pad-nav: 1.2em 
+$w-home: 3em
+$pad-nav: 1em 
+
+$fs-nav: 1em
+$fs-nav-laptop: 1.5em
+
+$color-menu: #dd8697
+
 
 header 
-  margin-right: 1em
-  align-items: flex-end
+  align-items: flex-center
+  padding: $pad-nav
 
 /*--- Logo Accueil ---*/ 
-#home 
-  padding: $pad-nav
-  position: absolute
-  top: 0em
-  left: 0em
 
 #home img 
-  width: 7.5em
+  width: $w-home
+  margin-right: 0.5em
 
 /*--- Bouton Menu ---*/
+
 #show-menu
-  visibility: hidden
+  display: none
 
 #show-menu ~ label 
-  padding: 2.5em
-  border: 1px solid $ciel
-  color: $ciel
-  border-radius: 4px
-  align-self: flex-end
 
-/*--- Nav ---*/ 
+.menu img 
+  border: 1.3px solid $color-menu
+  border-radius: 4px
+  width: $w-home
+  padding: 0em 0.3em
+
+/*--- Menu Déroulant ---*/ 
+
+#navbar 
+  align-items: flex-end
+
+#show-menu ~ nav
+  display: none
+
 #show-menu:checked ~ nav 
   display: block
   display: flex
   flex-flow: column 
   flex-wrap: none
+  align-items: stretch
 
-#show-menu ~ nav
-  display: none
+/*--- Liens ---*/
 
-nav a 
+nav a, #home a 
   color: $marine
   font-size: $fs-nav
   text-decoration: none
+
+nav a
   text-align: right
   padding: 0.65em 3em
-  border-bottom: 1px solid $ciel
-  border-right: 1px solid $ciel
+  border-bottom: 1px solid $color-menu
+  border-right: 1px solid $color-menu
   border-radius: 4px
 
-/*--- Laptop ---*/
+
+/*====== Laptop ======*/
+
 @media #{$laptop} 
+
   header 
     margin-right: 0em
+
+  /*--- Accueil ---*/
 
   #home 
     position: relative
 
-  #show-menu ~ label 
-    display: none
+  /*--- Menu Déroulé ---*/
 
   #show-menu ~ nav
     display: flex
     flex-flow: row
-    padding-bottom: $pad-nav 
+  
+  #show-menu ~ label 
+    display: none
+
+  /*--- Liens ---*/
 
   nav a
     border-right: none
     border-bottom: none
     border-radius: 0px
-    padding-top: 2em
+    font-size: $fs-nav-laptop

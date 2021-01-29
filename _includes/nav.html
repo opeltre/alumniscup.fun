@@ -3,8 +3,8 @@
   <!-- Accueil -->
   <div id="home">
     <a href="/">
-      <img alt="Alumni's Cup Home"
-          src="/assets/logos/alumniscup.png">
+      <img alt="Accueil"
+          src="/assets/logos/sails.svg">
     </a>
   </div> 
 
@@ -14,14 +14,15 @@
   <div id="navbar" class="flex-v">
 
     <input name="show-menu" id="show-menu" type="checkbox">
-    <label for="show-menu"> Menu </label> 
+    <label for="show-menu" class="menu"> 
+      <img alt="Menu" src="/assets/logos/menu.svg">
+    </label> 
 
     <nav id="menu"> 
       {% for item in site.data.nav %} 
       <a href="{{item.url}}">{{item.name}}</a> 
       {% endfor %}
     </nav> 
-
   </div> 
 
 </header> 
