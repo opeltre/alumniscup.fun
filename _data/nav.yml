@@ -1,4 +1,4 @@
-- name: Inscription
+- name: Inscriptions
   url: "/inscription"
 - name: Course aux Dons
   url: "/dons"

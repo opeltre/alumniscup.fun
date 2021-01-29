@@ -4,10 +4,7 @@ $w-home: 3em
 $pad-nav: 1em 
 
 $fs-nav: 1em
-$fs-nav-laptop: 1.5em
-
-$color-menu: #dd8697
-
+$fs-nav-laptop: 1.4em
 
 header 
   align-items: flex-center
@@ -27,8 +24,6 @@ header
 #show-menu ~ label 
 
 .menu img 
-  border: 1.3px solid $color-menu
-  border-radius: 4px
   width: $w-home
   padding: 0em 0.3em
 
@@ -49,16 +44,13 @@ header
 
 /*--- Liens ---*/
 
-nav a, #home a 
+nav a
   color: $marine
   font-size: $fs-nav
   text-decoration: none
-
-nav a
   text-align: right
   padding: 0.65em 3em
   border-bottom: 1px solid $color-menu
-  border-right: 1px solid $color-menu
   border-radius: 4px
 
 
@@ -90,3 +82,7 @@ nav a
     border-bottom: none
     border-radius: 0px
     font-size: $fs-nav-laptop
+
+  nav a:hover
+    color: $rouge
+    border-bottom: 1px solid $rouge 
