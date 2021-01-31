@@ -1,8 +1,11 @@
 <aside class="aside aside-2">
-<h2> {{ site.data.aside2.title }}</h2>
-{% for item in site.data.aside2.logos %}
-<a href="{{ item.url }}">
-  <img class="logo" src="assets/logos/{{ item.name }}" width={{include.width}}>
-</a>
+{% for aside2_hash in site.data.aside2 %}
+{% assign org = aside2_hash[1] %}
+  <h2> {{ org.title }}</h2>
+  {% for item in org.logos %}
+    <a href="{{ item.url }}">
+      <img class="logo" src="assets/logos/{{ item.name }}" width={{include.width}}>
+    </a>
+  {% endfor %}
 {% endfor %}
 </aside>
