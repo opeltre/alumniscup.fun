@@ -1,0 +1,8 @@
+<aside class="aside aside-1">
+<h2> {{ site.data.aside1.title }}</h2>
+{% for item in site.data.aside1.logos %}
+<a href="{{ item.url }}">
+  <img class="logo" src="assets/logos/{{ item.name }}" width={{include.width}}>
+</a>
+{% endfor %}
+</aside>

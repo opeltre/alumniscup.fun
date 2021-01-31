@@ -67,11 +67,11 @@ main {
 }
 
 .aside-1 {
-  background: grey;
+  background: white;
 }
 
 .aside-2 {
-  background: grey;
+  background: white;
 }
 
 @media only screen and (min-width: 500px) {

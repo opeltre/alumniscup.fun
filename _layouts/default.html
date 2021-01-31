@@ -12,12 +12,10 @@
 
     <div class="wrapper">
       <main> {{content}} </main>
-      <aside class="aside aside-1">
-        {% include logos.html %}
-      </aside>
-      <aside class="aside aside-2">
-        {% include logos.html %}
-      </aside>
+
+      {% include aside1.html width="100px" %}
+      {% include aside2.html width="100px" %}
+
     </div>
   </body>
 </html>
