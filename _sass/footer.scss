@@ -1,0 +1,33 @@
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.social-footer {
+  padding: 1rem;
+  background: $white;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.social-footer-icons {
+
+  li {
+    display: inline;
+    margin: 0.5rem
+    }
+  li:last-of-type {
+    margin-right: 0;
+  }
+
+  .fa {
+    font-size: 1.3rem;
+    color: $orange;
+
+    &:hover {
+      color: darken($bleu, 25%);
+      transition: color 0.3s ease-in;
+    }
+  }
+}
