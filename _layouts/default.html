@@ -5,16 +5,17 @@
 <html>
   <head>
   {% include head.html %}
-  </head> 
+  </head>
 
   <body>
     {% include nav.html %}
 
-    <div class="flex-h"> 
-      <div class="grow"> </div>
+    <div class="wrapper">
       <main> {{content}} </main>
-      <div class="grow"> </div> 
-    </div> 
 
+      {% include aside1.html width="80px" %}
+      {% include aside2.html width="80px" %}
+
+    </div>
   </body>
 </html>

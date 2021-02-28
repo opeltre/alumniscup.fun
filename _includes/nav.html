@@ -6,23 +6,23 @@
       <img alt="Accueil"
           src="/assets/logos/sails.svg">
     </a>
-  </div> 
+  </div>
 
-  <span class="grow"></span>  
+  <span class="grow"></span>
 
   <!-- Barre de nav -->
   <div id="navbar" class="flex-v">
 
     <input name="show-menu" id="show-menu" type="checkbox">
-    <label for="show-menu" class="menu"> 
+    <label for="show-menu" class="menu">
       <img alt="Menu" src="/assets/logos/menu.svg">
-    </label> 
+    </label>
 
-    <nav id="menu"> 
+    <nav id="menu">
       {% for item in site.data.nav %} 
-      <a href="{{item.url}}">{{item.name}}</a> 
+      <a href="{{ item.url }}">{{ item.name }}</a>
       {% endfor %}
-    </nav> 
-  </div> 
+    </nav>
+  </div>
 
-</header> 
+</header>
