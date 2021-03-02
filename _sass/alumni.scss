@@ -11,8 +11,14 @@ body, html {
     color: $marine;
 }
 
+p {
+  text-align:: justify;
+}
+
 main {
     max-width: 600px;
+    text-align: left;
+    background: white;
 }
 
 @media #{$phone} {
@@ -30,4 +36,65 @@ main h2 {
 
 main strong {
     color: $bleu;
+}
+
+/*------ Asides ------*/  
+
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center;
+}
+
+.wrapper > * {
+  padding: 10px;
+  flex: 1 100%;
+}
+
+.footer {
+  background: white;
+}
+
+.aside-1 {
+  background: white;
+}
+
+.aside-2 {
+  background: white;
+}
+
+aside a {
+  text-decoration: none;
+}
+
+/*--- @media ---*/
+
+@media only screen and (min-width: 500px) {
+  .aside { flex: 1 0 0; }
+}
+
+@media only screen and (min-width: 900px) {
+   main    { flex: 3 0px; }
+  .aside-1 { order: 1; }
+   main    { order: 2; }
+  .aside-2 { order: 3; }
+  .footer  { order: 4; }
+}
+
+
+/*------ Course aux Dons ------*/ 
+
+.payasso {
+    padding:    10px;
+    color:      white;
+    margin:     auto;
+    background-color:   #ea7622;
+    text-decoration:    none;
+    border-radius: 4px;
+}
+
+.image-centered {
+    margin: 0 auto;
+    display: block;
 }

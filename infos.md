@@ -6,9 +6,17 @@ layout: default
 
 ## Documents indispensables
 
-- **Licence FFV** de l'année en cours. Celle-ci peut être prise auprès de la SRH en donnant Nom, Prénom, Adresse, Date et Lieu de Naissance. Tarifs 2021 Licence année : 58,50 euros Licence temporaire (4jours): 15,50  euros. Pour cela envoyez un mail avant la régate à la SRH [✉️](mailto:srh@lesregates.com).
+- **Licence FFV** de l'année en cours.
+Celle-ci peut être prise auprès de la SRH [✉️](mailto:srh@lesregates.com).
+Donnez-leur Nom, Prénom, Adresse, Date et Lieu de Naissance. 
+Tarifs 2021: annuelle 58.50€, temporaire (4jours) 15.50 €.
 
-- **Certificat médical** de l'année en cours, indiquant "pas de contre-indication à la pratique de la voile sportive en compétition".
+- **Certificat médical** de l'année en cours, 
+indiquant "pas de contre-indication à la pratique de 
+la voile sportive en compétition". Pour les licenciés, un formulaire 
+peut aussi être rempli depuis 
+[votre espace](http://ffvoile.fr) si un certificat a 
+été fourni l'année précédente.
 
 ## Lieu de rendez-vous
 
@@ -16,19 +24,25 @@ Société des Régates du Havre (SRH):  quai Eric Tabarly, à hauteur du numéro
 
 Des douches, vestiaires ainsi qu'un parking gratuit sont à disposition des équipiers.
 
-Le dîner des équipages se tient le samedi soir à la SRH.
-
 {% include streetmap.html %}
 
 
 ## Repas
 
-Le Diner des équipages est pris en charge par l'Alumni's Cup et se tient à la SRH.
+Le Diner des équipages est pris en charge par l'Alumni's Cup et se tient 
+le samedi soir au restaurant les régates, juste au-dessus de la SRH.
 
-Pour vos panier repas, si vous voulez éviter la logistique avitaillement vous pouvez réserver vos sandwichs auprès de l'organisation.
+Pour vos panier repas, 
+si vous voulez éviter la logistique avitaillement, 
+n'oubliez pas de commander vos sandwichs auprès de l'organisation!
 
 ## Venir au Havre
 
-- En train (durée 2h16): privilégiez un départ le vendredi soir (train jusqu'à 22h03). Si certains équipiers n'ont pas le choix le premier train part le samedi matin à 7h50 de Saint-Lazare pour arriver à 10h06. Puis prendre le tram A ou B de la gare jusqu'à l'arrêt La plage (10 minutes) puis 5 minutes de marche en suivant la plage direction plein Sud vers la SRH.
+- En train: 2h16, direct depuis Saint-Lazare! 
+Trams A et B directs de la gare à la SRH ou 20 min de marche.  
 
-- En voiture (durée 2 heures en partant de Porte de Saint-Cloud): Si vous partez vendredi soir vous aurez la joie de profiter des restaurants havrais (consulter le Le guide Michelin, il recèle de bons conseils)
+- En voiture: 2 heures depuis la défense, mais plus long le dimanche soir.
+
+Privilégiez un départ le vendredi soir, 
+et retrouvez-nous pour la traditionnelle manche de chauffe au Trappist,
+juste en face du volcan Niemeyer &#x1F37B; !
