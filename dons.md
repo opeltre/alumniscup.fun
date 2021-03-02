@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# L'association soutenue par l'Alumni's Cup
+# La SNSM soutenue par l'Alumni's Cup
 
-*L'année dernière, nous avons récoltés grâce à vos dons 5045€ ! Merci encore à tous les donateurs.*
+*L'année dernière, nous avons récoltés grâce à vos dons 5045€ ! Merci encore à tous les donateurs.* &#x2693;
 
 {% include donate.html %}
 
@@ -18,11 +18,12 @@ Association loi 1901 reconnue d’utilité publique, a pour vocation première l
 - Missions de sécurité civile à la demande des autorités départementales
 - Prévention maritime pour les usagers de la mer
 
-# Couse aux dons
+# Course aux dons
 
+Une manche s'ajoute dans le classement général, c'est la course aux dons!
 Les dons récoltés par l'Alumni's Cup en 2021 seront reversés à la SNSM (les Sauveteurs en Mer) pour **financer l'acquisition de matériel et les frais courants**.
 
-Une manche s'ajoute dans le classement général, c'est la course aux dons! Le principe est simple; les bateaux sont classés selon les dons enregistrés et **cette manche ne peut pas sauter** au classement général...
+Le principe est simple: les bateaux sont classés selon les dons enregistrés et **cette manche ne peut pas sauter** au classement général. &Agrave; la fin des deux tours, les dons de chaque équipage sont cumulés pour ne tenir compte que d'une seule manche de soutien à la SNSM... et déterminer le vainqueur de la coupe! &#x1F3C6;
 
 {% include donate.html %} 
 
