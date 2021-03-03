@@ -7,24 +7,11 @@ body, html {
 
 *{
     font-family: 'avenir', sans-serif;
-    font-weight: thin;
     color: $marine;
 }
 
 p {
   text-align:: justify;
-}
-
-main {
-    max-width: 600px;
-    text-align: left;
-    background: white;
-}
-
-@media #{$phone} {
-    main {
-        max-width: 90%;
-    }
 }
 
 main h1 {
@@ -41,6 +28,18 @@ main strong {
 main a {
     color: $rouge;
     text-decoration: none;
+}
+
+main {
+    max-width: 600px;
+    text-align: left;
+    background: white;
+}
+
+@media #{$phone} {
+    main {
+        max-width: 90%;
+    }
 }
 
 /*------ Asides ------*/  
