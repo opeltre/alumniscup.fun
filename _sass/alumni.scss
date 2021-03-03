@@ -103,3 +103,20 @@ aside a {
     margin: 0 auto;
     display: block;
 }
+
+/*------ Tables -------*/
+
+table {
+    border-collapse: collapse;
+}
+td, th {
+    padding: 0.2em 1.2em;
+    min-width: 6em;
+}
+table, th {
+    border: 0.05em solid $rouge;
+}
+td {
+    border-left: 0.05em solid $rouge;
+}
+th { color: $rouge;}
