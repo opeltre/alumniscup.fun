@@ -38,6 +38,11 @@ main strong {
     color: $bleu;
 }
 
+main a {
+    color: $rouge;
+    text-decoration: none;
+}
+
 /*------ Asides ------*/  
 
 .wrapper {
