@@ -9,13 +9,13 @@ du **{{site.t1}}** et du **{{site.t2}}**. Deux tours
 pour se démarquer sur l'eau et remporter la coupe! 
 
 La flotte de J80 est fournie par la 
-[Société des Régates du Havre](www.lesregates.com). 
+[Société des Régates du Havre](http://lesregates.com). 
 
 L'inscription à un seul des deux tours est néanmoins possible. 
 
 ## Préinscription 
 
-&Eacute;crivez-nous [ici &#x1F48C;](alumniscupinfo@gmail.com) pour 
+&Eacute;crivez-nous [ici &#x1F48C;](mailto:alumniscupinfo@gmail.com) pour 
 nous informer de votre intention de participer à l'Alumni's Cup. 
 Merci d'indiquer dans votre message: 
 - NOM, Prénom et numéro de portable du skipper,
