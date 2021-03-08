@@ -3,7 +3,7 @@ a {
   text-decoration: none;
 }
 
-.social-footer {
+footer {
   padding: 1rem;
   background: $white;
   display: flex;
@@ -11,7 +11,7 @@ a {
   justify-content: space-evenly;
 }
 
-.social-footer-icons {
+.social-icons {
 
   li {
     display: inline;
@@ -23,7 +23,7 @@ a {
 
   .fa {
     font-size: 1.3rem;
-    color: $orange;
+    color: $rouge;
 
     &:hover {
       color: darken($bleu, 25%);
