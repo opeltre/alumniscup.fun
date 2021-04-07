@@ -1,6 +1,6 @@
 title: partenaires
 logos:
-- name: "dupont.jpg"
-  url: https://www.calvados-dupont.fr/
-- name: "petits-cochons.png"
-  url: https://box.lespetitscochons.fr/
+  #- name: "dupont.jpg"
+  #url: https://www.calvados-dupont.fr/
+  #- name: "petits-cochons.png"
+  #url: https://box.lespetitscochons.fr/
