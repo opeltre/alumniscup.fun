@@ -6,4 +6,17 @@
 
 Visite [alumniscup.fun](alumniscup.fun)
 
+## Mise à jour de la version production
 
+Connecte-toi en ssh:
+
+```
+ssh alumniscup.fun 
+```
+Rebuild et publie
+
+```
+(~)$ cd alumniscup.fun
+(alumniscup.fun)$ git pull | branch | ...
+(alumniscup.fun)$ ./publish.sh
+```
