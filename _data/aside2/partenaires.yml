@@ -1,6 +1,8 @@
 title: partenaires
 logos:
-  #- name: "dupont.jpg"
-  #url: https://www.calvados-dupont.fr/
+  - name: "dupont.jpg"
+    url: https://www.calvados-dupont.fr/
+  - name: "gobi.png"
+    url: https://www.gobilab.com/
   #- name: "petits-cochons.png"
   #url: https://box.lespetitscochons.fr/
