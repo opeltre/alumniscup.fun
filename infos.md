@@ -8,8 +8,8 @@ layout: default
 
 - **Licence FFV** de l'année en cours.
 Celle-ci peut être prise auprès de la SRH [✉️](mailto:srh@lesregates.com).
-Donnez-leur Nom, Prénom, Adresse, Date et Lieu de Naissance. 
-Tarifs 2021: annuelle 58.50€, temporaire (4jours) 15.50 €.
+Leur fournir nom, prénom, adresse, date et lieu de naissance. 
+Tarifs 2022: licence annuelle 58.50€, temporaire  15.50€ / jour
 
 - **Certificat médical** de l'année en cours, 
 indiquant "pas de contre-indication à la pratique de 
@@ -34,7 +34,7 @@ le samedi soir au restaurant les régates, juste au-dessus de la SRH.
 
 Pour vos panier repas, 
 si vous voulez éviter la logistique avitaillement, 
-n'oubliez pas de commander vos sandwichs auprès de l'organisation!
+n'oubliez pas de commander vos sandwichs auprès de l'organisation !
 
 ## Venir au Havre
 
