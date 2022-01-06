@@ -31,6 +31,5 @@ Plus tôt les compos validées, plus tôt le départ sur l'eau samedi matin! ⛵
 
 ## Inscription 
 
-Vous pouvez inscrire votre équipage ou en rejoindre en remplissant ce formulaire:
-{% include hello_asso.html %}
+Un formulaire sera bientôt disponible pour s'inscrire !
 
