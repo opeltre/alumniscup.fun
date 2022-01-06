@@ -19,10 +19,6 @@ Remarques :
 
 ## Tarifs
 {% include tarifs.html %}
-## Inscription 
-
-Vous pouvez inscrire votre équipage ou en rejoindre en remplissant ce formulaire:
-{% include hello_asso.html %}
 
 ## Composition 
 
@@ -32,3 +28,9 @@ que chaque équipier dispose d'une **licence  FFV** et d'un **certificat
 médical valide** l'autorisant à naviguer le jour J. 📋
 
 Plus tôt les compos validées, plus tôt le départ sur l'eau samedi matin! ⛵
+
+## Inscription 
+
+Vous pouvez inscrire votre équipage ou en rejoindre en remplissant ce formulaire:
+{% include hello_asso.html %}
+
