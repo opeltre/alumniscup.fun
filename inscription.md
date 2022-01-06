@@ -22,7 +22,7 @@ Remarques :
 ## Inscription 
 
 Vous pouvez inscrire votre équipage ou en rejoindre en remplissant ce formulaire:
-{include hello_asso.html}
+{% include hello_asso.html %}
 
 ## Composition 
 
