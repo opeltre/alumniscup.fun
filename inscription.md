@@ -21,7 +21,8 @@ Remarques :
 {% include tarifs.html %}
 ## Inscription 
 
-Vous pouvez inscrire votre équipage ou en rejoindre en remplissant [ce formulaire](https://www.helloasso.com/associations/alumni-s-cup/adhesions/alumni-s-cup-1?_gl=1%2a6jq2r9%2a_ga%2aMTQ1NDIxMTgxMC4xNjM5NTEyMDAw%2a_ga_TKC826G3G2%2aMTY0MDU0NDk4NS40LjEuMTY0MDU0NTQ5NS4w&_ga=2.146992567.10633766.1640469754-1454211810.1639512000).
+Vous pouvez inscrire votre équipage ou en rejoindre en remplissant ce formulaire:
+{include hello_asso.html}
 
 ## Composition 
 
