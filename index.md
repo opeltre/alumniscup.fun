@@ -10,4 +10,4 @@ layout: default
     class="affiche"
     src='/assets/img/affiches/web/affiche_2022.jpg'>
 
->>> [Avis De Course](/assets/AvisDeCourse21.pdf)
+>>> [Avis De Course](/assets/AvisDeCourse22.pdf)
